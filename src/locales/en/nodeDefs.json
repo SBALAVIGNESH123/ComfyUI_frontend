@@ -6435,6 +6435,19 @@
       }
     }
   },
+  "ManualSigmas": {
+    "display_name": "ManualSigmas",
+    "inputs": {
+      "sigmas": {
+        "name": "sigmas"
+      }
+    },
+    "outputs": {
+      "0": {
+        "tooltip": null
+      }
+    }
+  },
   "MaskComposite": {
     "display_name": "MaskComposite",
     "inputs": {
